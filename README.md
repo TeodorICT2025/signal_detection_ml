@@ -14,4 +14,4 @@ Files
 - `logistic_regression.py` – trains and tests logistic regression on the generated data
 
 Status
-Work in progress. Future improvements include train/test split, feature extraction, and evaluation under varying SNR levels
+Work in progress. Future improvements include train/test split, extending features extracted, and evaluation under more diverse SNR levels
