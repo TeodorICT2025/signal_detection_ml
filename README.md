@@ -10,7 +10,7 @@ Pipeline
 
 Files
 - `generate_data.py` – generates synthetic signal data
-- `data.csv` - contains teh synthetically generated data
+- `data.csv` - contains the synthetically generated data
 - `logistic_regression.py` – trains and tests logistic regression on the generated data
 
 Status
